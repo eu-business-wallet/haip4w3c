@@ -623,7 +623,6 @@ But it should avoid unnecessary platform-controlled registration points and avoi
 | `W3C VCDM Assurance Framework` | Preferred umbrella name for the W3C-aligned workstream. |
 | `Assurance Levels for W3C VCDM Credentials` | Preferred concrete specification title. |
 | `Semantic Dependency Assurance` | First major module of the assurance-level specification. |
-| `High Assurance Profile for W3C VCDM Credentials` | Usable but less preferred because it sounds like a direct HAIP clone. |
 
 ## 7. Unified Semantic Control Set and Assurance Levels
 
