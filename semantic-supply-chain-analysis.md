@@ -620,7 +620,6 @@ But it should avoid unnecessary platform-controlled registration points and avoi
 
 | **Name** | **Recommended use** |
 |---|---|
-| `HAIP4W3C` | Working label, repository name, or informal coordination term. |
 | `W3C VCDM Assurance Framework` | Preferred umbrella name for the W3C-aligned workstream. |
 | `Assurance Levels for W3C VCDM Credentials` | Preferred concrete specification title. |
 | `Semantic Dependency Assurance` | First major module of the assurance-level specification. |
@@ -757,7 +756,7 @@ W3C VCDM Assurance Framework
         └── Conformance Testing
 ```
 
-This should be the public standards framing. `HAIP4W3C` can remain a working label, but the formal output should be expressed as assurance levels for W3C VCDM credentials.
+This should be the public standards framing. The formal output should be expressed as assurance levels for W3C VCDM credentials.
 
 The next step should be a W3C-aligned assurance framework for VCDM credentials. It should define assurance levels and mandatory controls for semantic dependency assurance, issuer authorisation, verifier authentication, holder binding, wallet assurance, status, privacy, and conformance testing.
 
