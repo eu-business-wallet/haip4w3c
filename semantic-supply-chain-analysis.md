@@ -5,6 +5,8 @@
 
 **Working paper for technical and policy discussion**
 
+**Author(s):** Carsten Stöcker (Spherity GmbH), further authors will be added.
+
 **Current as of:** 7 May 2026
 
 > [!IMPORTANT]
